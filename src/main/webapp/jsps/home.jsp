@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Praveen Institute of Engineering & Technology</title>
+    <title>Prasanna Institute of Engineering & Technology</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -53,7 +53,7 @@
 <body>
 
 <header>
-    <h1>Praveen Institute of Engineering & Technology</h1>
+    <h1>Prasanna Institute of Engineering & Technology</h1>
     <p>An Autonomous Institution Approved by AICTE & Permanently Affiliated to JNTU Gurajada, Vizianagaram</p>
 </header>
 
@@ -76,7 +76,7 @@
 </div>
 
 <footer class="footer">
-    <p>&copy; 2024 Praveen Institute of Engineering & Technology</p>
+    <p>&copy; 2024 Prasanna Institute of Engineering & Technology</p>
 </footer>
 
 </body>
